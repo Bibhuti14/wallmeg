@@ -38,14 +38,14 @@
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    margin: 37px 23px 2px 50px;
+    margin: 37px 20px 2px 48px;
 }
 body{
     background-color: #6e5d9c;
 }
    @media (max-width: 420px){
     header {
-        width: 425px;
+        width: 412px;
         position: sticky;
         top: 0;
         left: 0;
