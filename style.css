@@ -43,7 +43,7 @@
 body{
     background-color: #6e5d9c;
 }
-   @media (max-width: 420px){
+   @media (max-width: 412px){
     header {
         width: 412px;
         position: sticky;
@@ -64,7 +64,7 @@ body{
         display: flex;
         justify-content: space-evenly;
         flex-direction: row;
-        margin: 37px;
+        margin-top: 53px;
         gap: 23px;
     }
     
